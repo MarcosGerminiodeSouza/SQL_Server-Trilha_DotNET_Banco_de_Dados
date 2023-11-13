@@ -1,4 +1,12 @@
-# DIO - Trilha .NET - Banco de Dados
+# Banco de Dados de um Site de filmes
+
+Desafio de Projeto: Trilha .NET - Montando Consultas Relacionais no SQL Server
+
+## Desafio DIO
+
+Este projeto é um desafio proposto na plataforma Digital Inovation One
+
+## DIO - Trilha .NET - Banco de Dados
 www.dio.me
 
 ## Desafio de projeto
