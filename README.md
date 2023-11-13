@@ -1,4 +1,4 @@
-# Banco de Dados de um Site de filmes
+# Banco de Dados de um Site de Filmes
 
 Desafio de Projeto: Trilha .NET - Montando Consultas Relacionais no SQL Server
 
